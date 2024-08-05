@@ -1,5 +1,8 @@
 # Ambrosia
 
+Nothing to see here for now, come back later!
+
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
